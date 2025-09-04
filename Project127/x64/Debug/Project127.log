@@ -1,4 +1,0 @@
-﻿  FileName.cpp
-D:\C语言\Project127\Project127\FileName.cpp(73,1): warning C4715: “manager_menu”: 不是所有的控件路径都返回值
-FileName.obj : error LNK2019: 无法解析的外部符号 "int __cdecl visitor_login(void)" (?visitor_login@@YAHXZ)，函数 main 中引用了该符号
-D:\C语言\Project127\x64\Debug\Project127.exe : fatal error LNK1120: 1 个无法解析的外部命令
